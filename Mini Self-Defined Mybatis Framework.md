@@ -1,4 +1,5 @@
-<center><b>Self-Defined Mybatis Framework</b></center>
+<center><b>Readme.md</b></center></br>
+Self-Defined Mybatis Framework
 
 Author: Jeff Du Hong
 
